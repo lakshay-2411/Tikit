@@ -1,0 +1,2 @@
+export const eventTicketAddress="0x9997E13730D9825b58d2Db7eddCd4951B9869F06";
+export const ticketStakingAddress="0xa85233C63b9Ee964Add6F2cffe00Fd84eb32338f";
